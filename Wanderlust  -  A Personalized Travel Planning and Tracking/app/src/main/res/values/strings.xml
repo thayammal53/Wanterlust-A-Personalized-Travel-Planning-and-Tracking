@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Travel App</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="title_activity_register">RegisterActivity</string>
+    <string name="title_activity_bali">BaliActivity</string>
+    <string name="title_activity_paris">ParisActivity</string>
+    <string name="title_activity_singapore">SingaporeActivity</string>
+    <string name="place_2">5</string>
+    <string name="place">2</string>
+    <string name="place_1">1</string>
+    <string name="place_">1</string>
+    <string name="place_3">3</string>
+</resources>
